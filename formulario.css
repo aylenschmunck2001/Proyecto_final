@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+h1  {
+    font-size: smaller;
+    font-size: 300%;
+    font-family:sans-serif;
+}
+h2 {
+    font-size: smaller;
+    font-size: 125%;
+    font-family:'Times New Roman', Times, serif;
+}
+h3 {
+    font-size: smaller;
+    font-size: 125%;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(122, 59, 98);
+}
+
+
+form {
+    border:5px solid rgb(202, 199, 181);
+    width;300px;
+    padding:15px;
+    border: radius 5px;
+    position:absolute;
+    top:35%;
+    left:35%;    
+}
+button{
+    background-color: rgb(90, 89, 74);
+
+}
